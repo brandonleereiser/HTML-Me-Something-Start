@@ -1,1 +1,20 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+}
+#mainHeading {
+    color: red; 
+    font-size: 28px;
+    font-weight: bold; 
+    text-align: center;
+}
+.funParagraph {
+    color: green;
+    font-size: 14px; 
+    font-weight: bold; 
+    text-align: center;
+}
+body {
+    background-color: violet;
+}
